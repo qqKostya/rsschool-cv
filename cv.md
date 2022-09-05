@@ -18,4 +18,26 @@ I chose Python as my main first stack, but now I decided to learn front-end.
 In addition, I have experience with Docker and Docker Compose, deploying databases (PostgreSQL) and raising servers, deploying projects on Heroku and working with REST API.
 
 Now I continue to actively develop in the field of web development. Every day I watch thematic YouTube channels, read portals and telegram channels, and of course, I take further courses.
+
+---
+
+## Skills
+Hard skills:
+- basic HTML;
+- Vanilla CSS
+- Vanilla JS
+- GIT;
+- Linux;
+- Docker;
+- Python (django, flask, fastapi, drf)
+- Databases (MySQL, PostgreSQL).
+
+Soft skills:
+- experience of working in a team (was a Team Leader of the Buying Department in an advertising agency https://www.adskillgroup.com/;
+- resistance to stress (constantly communicated with advertisers);
+- communication skills (held a large number of rallies with leaders, subordinates and other departments);
+- love for learning and learning new things (during training I tried and try different languages, on some I do mini pet-projects);
+- viewing in IT (I constantly watch thematic Youtube channels, and also read portals and telegram channels);
+- I try to bring everything to the end, if it is expedient.
+
 ---
