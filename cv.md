@@ -70,3 +70,22 @@ Burger menu script
 ```
 
 ---
+
+## Education 
+- __College:__ Chelyabinsk Metallurgical College, operation and maintenance of electrical and electromechanical equipment
+- __Institute:__ South Ural Institute of Management and Economics, manager in electrical engineering and energy
+- __Courses:__
+  - [Hexlet: Command Line Basics](https://ru.hexlet.io/u/qqkostya/courses)
+  - [Hexlet "Introduction to Git"](https://ru.hexlet.io/u/qqkostya/courses)
+  - [HTML Academy: HTML, CSS, JS trainers](https://htmlacademy.ru/profile/id2052549)
+  - [Developer Resources, From Developers: HTML, CSS, JS, Django (Mozilla)](https://developer.mozilla.org/ru/docs/Learn)
+  - [Hexlet "Python: Programming Fundamentals"](https://ru.hexlet.io/u/qqkostya/courses)
+  - [Stepik: “Generation Python. Course for beginners»](https://stepik.org/cert/1533262)
+  - [Stepik: “Generation Python. Advanced Course»](https://stepik.org/cert/1558650)
+  - [Ruby course from RubyRush](https://rubyrush.ru/steps)
+  - [Udemy "Python + Django: from scratch to commercial applications"](https://www.udemy.com/course/python-django-app/)
+  - [Udemy "Django 3 - Full Stack Python Website Development"](https://www.udemy.com/course/django-3-full-stack-python/)
+  - [CS50 (Harvard, Fundamentals of Programming, Fall 2015)](https://www.youtube.com/watch?v=fH92Dq7jO90&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=7&ab_channel=JavaRush)
+  - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
