@@ -89,3 +89,7 @@ Burger menu script
   - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ---
+
+## __Languages:__
+- Russian - Native
+- English - A1 I try to learn English. Every day I try to spend 30-40 minutes watching videos in English and 20-30 minutes reading adapted books. I also use the Duolingo app.
